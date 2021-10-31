@@ -1,0 +1,33 @@
+
+.button {
+
+
+
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+
+}
+.button:pressed{
+
+    -fx-background-color: gold;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+
+}
+
+.text-field{
+    -fx-background-color: grey ;
+    -fx-border-color: black;
+    -fx-text-fill: white;
+
+}
+.check-box{
+-fx-text-fill: white;
+
+}
+.label{
+ -fx-background-color: grey ;
+ -fx-text-fill: gold;
+
+}
+HBox, VBox {
+    -fx-background-image: url("img.jpg");
+}
